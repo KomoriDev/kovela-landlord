@@ -1,0 +1,217 @@
+{
+  "item": {
+    "id": "com.komoridev.landlord",
+    "restype": "quick_app",
+    "name": "斗地主",
+    "description": "## 斗地主\n\n经典三人斗地主，支持人机对战，好友对战（同屏轮流与蓝牙联机）\n\n> 🆘 蓝牙联机为实验性功能，仍在测试期间，暂不可用。\n\n### 玩法\n\n- 规则：54 张牌，每人 17 张、底牌 3 张。叫地主 / 抢地主（腾讯欢乐斗地主规则：不叫者失去资格，有人抢则叫地主者可再抢一次，全员不叫重新发牌），地主拿底牌先出。\n- 牌型：单张、对子、三张、三带一、三带二、顺子（≥5）、连对（≥3 对）、飞机（可带同数量单牌或对子）、四带二 / 四带两对、炸弹、王炸。\n- 倍数：抢地主、炸弹、王炸、春天、反春各 ×2；地主赢 2 份、两位农民各输 1 份。单机每份 100 欢乐豆，豆子不足自动发救济豆。\n- 每日签到：首页欢乐豆胶囊带「签到」红标时点它领取；连续签到 7 天奖励逐日递增（500 → 3000），断签或满 7 天后从第 1 天重新开始，按设备本地日期跨零点。\n- 两阶段牌桌：\n  - 主控（轮到你）：手牌占下半屏，上半屏是对手、要压的牌和按钮。默认「牌块」模式——斗地主不看花色，同点数合成一块，点一下加选一张、再点继续加、选满后清空，下方圆点显示张数（红点为已选）；按钮行左侧的「⇄ 单张 / ⇄ 牌块」按钮随时切换（左右划过连选）。向上划或点「出牌」打出；「提示」循环给出能管住上家的牌，管不住时只剩「不出」。\n  - 观察（别人出牌）：自己的牌缩成底部一行小字，画面留给对手出的牌；点小字条可偷看手牌 3 秒，点任意处收起。\n  - 左上角暂停；右上角记牌器，点开是大号弹层，列出每种牌还有几张没出现，点任意处关闭。\n  - 节奏：人机每步停约 1.5 秒；一墩结束后上一墩的牌留在桌上直到下一手；最新一手牌下方有朱砂短线。\n- 同屏轮流：每次轮到另一位玩家（包括叫地主）时整屏遮住手牌，显示「轮到 玩家二」，接手的人点「查看手牌」才亮牌；结算标题直接写「地主获胜 / 农民获胜」，不计欢乐豆。\n- 人机：拆牌求最少手数，领出先走小牌和大牌型，跟牌优先不拆牌、对手快出完时才拆牌 / 上炸弹；农民之间会配合（队友的牌不压、给只剩一张的队友喂小单）\n- 蓝牙联机（暂不可用）：房主「创建房间」显示四位房间号，其他人「加入房间」搜索附近房间加入；房主开局后持有权威牌局，每人只收到自己视角的快照；真人座位不会被代打，掉线的座位改由人机接管，牌局继续。",
+    "preview": [
+      "media/cover.png",
+      "media/view.png",
+      "media/screenshot1.png",
+      "media/screenshot2.png",
+      "media/screenshot3.png",
+      "media/screenshot4.png",
+      "media/screenshot5.png",
+      "media/disclaimer.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官群",
+      "url": "https://qm.qq.com/q/WRPKz0HsQQ",
+      "icon": "chat-circle"
+    },
+    {
+      "title": "官方网站",
+      "url": "https://kovela.komoridevs.icu/",
+      "icon": "globe-simple"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello AstroBox"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
