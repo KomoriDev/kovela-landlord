@@ -33,14 +33,23 @@
       "title": "官方网站",
       "url": "https://kovela.komoridevs.icu/",
       "icon": "globe-simple"
+    },
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/item/a9dc39f0e08511f1bddc52540025c377",
+      "icon": "link-simple"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -48,10 +57,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -59,10 +72,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -70,10 +87,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -81,10 +102,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -92,10 +117,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -103,10 +132,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -114,10 +147,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -125,10 +162,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -136,10 +177,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -147,10 +192,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -158,10 +207,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -169,10 +222,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -180,10 +237,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -191,10 +252,14 @@
       ]
     },
     "xmws541": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -202,10 +267,14 @@
       ]
     },
     "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.komoridev.landlord.release.1.0.0.rpk",
-      "versionCode": 1,
+      "version": "1.1.0",
+      "file_name": "downloads/com.komoridev.landlord.release.1.1.0.rpk",
+      "versionCode": 2,
       "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+        },
         {
           "version": "1.0.0",
           "content": "- 🎉 Hello AstroBox"
@@ -213,5 +282,19 @@
       ]
     }
   },
-  "ext": {}
+  "ext": {
+    "forceUpdate": {
+      "version": "1.1.0",
+      "strategy": "prompt",
+      "reason": "- 🍻 测试期结束，普通版付费（联机版仍需等待）"
+    },
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "Kovela"
+        }
+      ]
+    }
+  }
 }
